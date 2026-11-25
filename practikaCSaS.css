@@ -1,0 +1,161 @@
+.GG{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGELVWcHsg-QNcG2FJc8GSdouvNux9gqKUd6n7t2DsZQ&s=10);
+    background-size: cover;
+}
+
+.verh{
+    width: 1420px;
+    height: 80px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    background: linear-gradient(to bottom,red 1%,black 100%);
+    opacity: 0.5;
+    position: relative;
+    top: 20px;
+    left: 50px;
+    transition: 0.7s;
+}
+
+.verh:hover{
+    opacity: 1;
+}
+
+.text{
+    background: linear-gradient(to bottom,red 1%,black 100%);
+    padding: 20px 10px;
+    border-radius: 5px;
+    color: aliceblue;
+    opacity: 0.5;
+    margin: 30px;
+    transition: 0.9s;
+}
+
+.text:hover{
+    opacity: 1;
+    background: linear-gradient(to bottom,red 1%,black 100%);
+    padding: 25px 15px;
+}
+
+.seredina{
+    width: 1420px;
+    height: 1000px;
+    position: relative;
+    margin: 50px;
+    display: flex;
+}
+
+.seredina1{
+    width: 400px;
+    height: 460px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.seredina2{
+    width: 400px;
+    height: 460px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    position: absolute;
+    top: 20px;
+    left: 510px;
+}
+
+.seredina3{
+    width: 400px;
+    height: 460px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.seredinaWitcher1{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAPJDdSM0Gi7AIhGaxaWLLkxEv3J0cZAJ6sD1mAEjlA&s=10);
+    width: 400px;
+    height: 460px;
+    background-size: cover;
+    border: 4px solid black;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    transition: 0.5s;
+}
+
+.seredinaWitcher2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRspf_eojdWy8BxYAuuR6Xx2HJjUaqKbVrqANfPvjMUjA&s=10);
+    width: 400px;
+    height: 460px;
+    background-size: cover;
+    border: 4px solid black;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 20px;
+    left: 510px;
+    transition: 0.5s;
+}
+
+.seredinaWitcher3{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLCoJfsMfW_e-nl5PCrWdyCeTpCZT821fWx0RAtxvJ4g&s=10);
+    width: 400px;
+    height: 460px;
+    background-size: cover;
+    border: 4px solid black;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    transition: 0.5s;
+}
+
+/*.seredinaWitcher3:hover{
+    background-image: url(https://gbaike-image.cdn.bcebos.com/94cad1c8a786c9177f3e39358d6167cf3bc79f3df931/94cad1c8a786c9177f3e39358d6167cf3bc79f3df931_1_1?x-bce-process=image/format,f_auto);
+    opacity: 1;
+    width: 400px;
+    height: 460px;
+}*/
+
+.tarantino{
+    width: 400px;
+    padding: 30px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(to top,red 1%,black 100%);
+    opacity: 0.5;
+    margin: 50px;
+    transition: 0.5s;
+}
+
+.tarantino:hover{
+    opacity: 0.9;
+}
+
+.text1{
+    background-color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 25px;
+    border-radius: 10px;
+    opacity: 0.5;
+    transition: 0.3s;
+}
+
+.text1:hover{
+    opacity: 1;
+}
+
+.LinkWIKI{
+    position: absolute;
+    bottom: 20px;
+    left: 30px;
+}
